@@ -1,0 +1,70 @@
+  0 BR      13
+  1 ENTER   37
+  2 LOADI   0
+  3 STO     2
+  4 LOADI   0
+  5 STO     3
+  6 LOADI   0
+  7 STO     4
+  8 LOADI   5
+  9 STO     5
+ 10 LOADI   5
+ 11 STO     8
+ 12 RETURN 
+ 13 ENTER   14
+ 14 LOAD    13
+ 15 STO     5
+ 16 LOADI   3
+ 17 STO     13
+ 18 LOAD    7
+ 19 STO     2
+ 20 LOAD    2
+ 21 LOADI   1
+ 22 EQ     
+ 23 BRF     27
+ 24 LOADI   4
+ 25 STO     2
+ 26 BR      27
+ 27 LOADI   1
+ 28 LOAD    2
+ 29 EQ     
+ 30 BRF     34
+ 31 LOADI   1
+ 32 STO     2
+ 33 BR      43
+ 34 LOADI   2
+ 35 LOAD    2
+ 36 EQ     
+ 37 BRF     41
+ 38 LOADI   2
+ 39 STO     2
+ 40 BR      43
+ 41 LOADI   3
+ 42 STO     2
+ 43 LOAD    2
+ 44 LOADI   10
+ 45 LES    
+ 46 BRF     52
+ 47 LOAD    2
+ 48 LOADI   3
+ 49 ADD    
+ 50 STO     2
+ 51 BR      43
+ 52 LOADI   0
+ 53 STO     13
+ 54 LOAD    13
+ 55 LOADI   10
+ 56 LES    
+ 57 BRF     69
+ 58 BR      64
+ 59 LOAD    13
+ 60 LOADI   1
+ 61 ADD    
+ 62 STO     13
+ 63 BR      54
+ 64 LOAD    2
+ 65 LOADI   1
+ 66 ADD    
+ 67 STO     2
+ 68 BR      59
+ 69 RETURN 

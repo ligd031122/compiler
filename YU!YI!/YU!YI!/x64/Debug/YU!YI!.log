@@ -1,0 +1,13 @@
+﻿  XUNIJI.cpp
+  语义分析.cpp
+C:\Users\ligd\source\repos\YU!YI!\YU!YI!\语法分析.h(81,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ligd\source\repos\YU!YI!\YU!YI!\语法分析.h(90,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ligd\source\repos\YU!YI!\YU!YI!\语法分析.h(110,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ligd\source\repos\YU!YI!\YU!YI!\语法分析.h(152,46): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\ligd\source\repos\YU!YI!\YU!YI!\语义分析.cpp(761,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ligd\source\repos\YU!YI!\YU!YI!\语义分析.cpp(922,20): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+C:\Users\ligd\source\repos\YU!YI!\YU!YI!\语义分析.cpp(922,20): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 1 冲突
+C:\Users\ligd\source\repos\YU!YI!\YU!YI!\语义分析.cpp(922,20): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+C:\Users\ligd\source\repos\YU!YI!\YU!YI!\语义分析.cpp(922,20): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 2 冲突
+  正在生成代码...
+  YU!YI!.vcxproj -> C:\Users\ligd\source\repos\YU!YI!\x64\Debug\YU!YI!.exe

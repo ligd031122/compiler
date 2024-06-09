@@ -1,0 +1,31 @@
+function g ( int a  int y  int z )
+{
+	int x1 ;
+	int x2 ;
+	int m [ 30 ] ;
+	x1 = 5 ;
+	m [ 1 ] = 5 ;
+}
+main ( ) {
+	int a ;
+	int c [ 10 ] ;
+	int b ;
+	c [ 2 ] = b ;
+	b = 3 ;
+	a = c [ 4 ] ;
+	if ( a == 1 ) 
+		a = 4 ;
+	switch ( a ) 
+	{
+	    case : 1 a = 1 ;
+	    break ;
+	    case : 2 a = 2 ;
+	    break ;
+	    default :
+	    a = 3 ;
+	}
+	while ( a < 10 )
+		a = a + 3 ;
+	for  ( b = 0 ; b < 10 ; b = b + 1 )
+		a = a + 1 ;
+}
